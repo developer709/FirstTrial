@@ -1,0 +1,15 @@
+*{
+	margin: 0 auto 0 auto;
+	text-align:left;
+}
+body{
+	margin:0;
+	padding:0;
+	text-align:left;
+	font-size:13px;
+	font-family:arial,helvetica, sens-serif;
+	color:#000000;
+	background-color:#1c478e;
+	background-image:url(D:\sdp assignment 1/background.jpg);
+	background-repeat:repeat-x;
+}
